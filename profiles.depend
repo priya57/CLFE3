@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1422269449 source:c:\cm-clfe-ws1415\profiles\mainprofiles.cpp
+	<stdio.h>
+	"Base.h"
+	"Node.h"
+	"Element.h"
+	"Profile.h"
+
+1421057585 c:\cm-clfe-ws1415\profiles\include\base.h
+
+1421059722 source:c:\cm-clfe-ws1415\profiles\src\base.cpp
+	"Base.h"
+	<stdio.h>
+	<string.h>
+
+1421661197 source:c:\cm-clfe-ws1415\profiles\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1421661197 c:\cm-clfe-ws1415\profiles\include\node.h
+	"Base.h"
+
+1422265040 source:c:\cm-clfe-ws1415\profiles\src\element.cpp
+	<stdio.h>
+	"Element.h"
+	<memory.h>
+	<math.h>
+
+1422260717 c:\cm-clfe-ws1415\profiles\include\element.h
+	"Node.h"
+
+1422268544 c:\cm-clfe-ws1415\profiles\include\profile.h
+	"Base.h"
+
+1422269521 source:c:\cm-clfe-ws1415\profiles\src\profile.cpp
+	"Profile.h"
+	<string.h>
+
+1421059722 source:g:\clfe\project\code\project3\profiles\src\base.cpp
+	"Base.h"
+	<stdio.h>
+	<string.h>
+
+1421057584 g:\clfe\project\code\project3\profiles\include\base.h
+
+1479504725 source:g:\clfe\project\code\project3\profiles\src\element.cpp
+	<stdio.h>
+	"Element.h"
+	<memory.h>
+	<math.h>
+
+1422260716 g:\clfe\project\code\project3\profiles\include\element.h
+	"Node.h"
+
+1421661196 g:\clfe\project\code\project3\profiles\include\node.h
+	"Base.h"
+
+1421661196 source:g:\clfe\project\code\project3\profiles\src\node.cpp
+	"Node.h"
+	<stdio.h>
+
+1422874158 source:g:\clfe\project\code\project3\profiles\src\profile.cpp
+	"Profile.h"
+	"Element.h"
+	<string.h>
+	<stdio.h>
+
+1422872900 g:\clfe\project\code\project3\profiles\include\profile.h
+	"Base.h"
+
+1479474034 source:g:\clfe\project\code\project3\profiles\mainprofiles.cpp
+	<stdio.h>
+	"Base.h"
+	"Node.h"
+	"Element.h"
+	"Profile.h"
+

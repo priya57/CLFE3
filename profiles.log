@@ -1,0 +1,441 @@
+1 instances created.
+instance 1 deleted.
+1 instances created.
+our first check!instance 1 deleted.
+1 instances created.
+our first check!
+instance 1 deleted.
+1 instances created.
+our first check!
+instance 1 deleted.
+1 instances created.
+> node:  1, x =      2.000, y =      3.000instance 1 deleted.
+1 instances created.
+> node:  1, x =      2.000, y =      3.000
+instance 1 deleted.
+1 instances created.
+> node:  1, x =      2.000, y =      3.000
+2 instances created.
+> node: 3613248, x =      0.000, y =      0.000
+instance 2 deleted.
+1 instances created.
+> node:  1, x =      2.000, y =      3.000
+2 instances created.
+> node:  0, x =      0.000, y =      0.000
+instance 2 deleted.
+1 instances created.
+> node:  1, x =      2.000, y =      3.000
+2 instances created.
+> node:  0, x =      0.000, y =      0.000
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+> node:  1, x =      2.000, y =      3.000
+2 instances created.
+> node:  0, x =     21.000, y =     22.000
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+> node:  1, x =      2.000, y =      3.000
+2 instances created.
+> node:  2, x =     21.000, y =     22.000
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+> node:  1, x =      2.000, y =      3.000
+2 instances created.
+> node:  2, x =     21.000, y =     22.000
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+> element  1, node  1 -  2, t =   4.00
+4 instances created.
+> element  2, node  1 -  2, t =   4.00
+instance 4 deleted.
+instance 3 deleted.
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+> element  1, node  1 -  2, t =   4.00
+4 instances created.
+> element  2, node  1 -  2, t =   4.00
+instance 4 deleted.
+instance 3 deleted.
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =      0.000, y =   -100.000
+> node:  2, x =      0.000, y =    100.000
+  L.........: 2.00000e+002 mm
+  A.........: 8.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 2.66667e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+instance 3 deleted.
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+1 instances created.
+instance 1 deleted.
+1 instances created.
+instance 1 deleted.
+1 instances created.
+1 instances created.
+1 instances created.
+2 instances created.
+3 instances created.
+4 instances created.
+1 instances created.
+2 instances created.
+3 instances created.
+4 instances created.
+instance 4 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+4 instances created.
+1 instances created.
+2 instances created.
+3 instances created.
+4 instances created.
+instance 4 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+4 instances created.
+5 instances created.
+6 instances created.
+instance 6 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+4 instances created.
+5 instances created.
+6 instances created.
+instance 6 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+4 instances created.
+5 instances created.
+6 instances created.
+Profile................: Fl 200x4
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =      0.000, y =   -100.000
+> node:  2, x =      0.000, y =      0.000
+  L.........: 0.00000e+000 mm
+  A.........: 0.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 0.00000e+000 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+> element  2, node  2 -  3, t =   4.00
+> node:  2, x =      0.000, y =      0.000
+> node:  3, x =      0.000, y =    100.000
+  L.........: 0.00000e+000 mm
+  A.........: 0.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 0.00000e+000 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+Area...................:       0.00 cm^2
+Static Moment..........:       0.00       0.00 cm^3
+Moment of Inertia......:       0.00       0.00       0.00 cm^4
+instance 6 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+4 instances created.
+5 instances created.
+6 instances created.
+Profile................: Fl 200x4
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =      0.000, y =   -100.000
+> node:  2, x =      0.000, y =      0.000
+  L.........: 1.00000e+002 mm
+  A.........: 4.00000e+000 cm^2
+  Sx........: -2.00000e+001 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 1.33333e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+> element  2, node  2 -  3, t =   4.00
+> node:  2, x =      0.000, y =      0.000
+> node:  3, x =      0.000, y =    100.000
+  L.........: 1.00000e+002 mm
+  A.........: 4.00000e+000 cm^2
+  Sx........: 2.00000e+001 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 1.33333e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+Area...................:       8.00 cm^2
+Static Moment..........:       0.00       0.00 cm^3
+Moment of Inertia......:     266.67       0.00       0.00 cm^4
+instance 6 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+4 instances created.
+5 instances created.
+6 instances created.
+Profile................: Fl 200x4
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =      0.000, y =   -100.000
+> node:  2, x =      0.000, y =      0.000
+  L.........: 1.00000e+002 mm
+  A.........: 4.00000e+000 cm^2
+  Sx........: -2.00000e+001 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 1.33333e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+> element  2, node  2 -  3, t =   4.00
+> node:  2, x =      0.000, y =      0.000
+> node:  3, x =      0.000, y =    100.000
+  L.........: 1.00000e+002 mm
+  A.........: 4.00000e+000 cm^2
+  Sx........: 2.00000e+001 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 1.33333e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+Area...................:       8.00 cm^2
+Static Moment..........:       0.00       0.00 cm^3
+Moment of Inertia......:     266.67       0.00       0.00 cm^4
+instance 6 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+4 instances created.
+5 instances created.
+6 instances created.
+Profile................: Fl 200x4
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =      0.000, y =   -100.000
+> node:  2, x =      0.000, y =      0.000
+  L.........: 1.00000e+002 mm
+  A.........: 4.00000e+000 cm^2
+  Sx........: -2.00000e+001 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 1.33333e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+> element  2, node  2 -  3, t =   4.00
+> node:  2, x =      0.000, y =      0.000
+> node:  3, x =      0.000, y =    100.000
+  L.........: 1.00000e+002 mm
+  A.........: 4.00000e+000 cm^2
+  Sx........: 2.00000e+001 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 1.33333e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+Area...................:       8.00 cm^2
+Static Moment..........:       0.00       0.00 cm^3
+Moment of Inertia......:     266.67       0.00       0.00 cm^4
+instance 6 deleted.
+1 instances created.
+our first check!
+instance 1 deleted.
+1 instances created.
+our first check!
+instance 1 deleted.
+1 instances created.
+> node:  1, x =      2.000, y =      3.000
+2 instances created.
+> node:  2, x =     21.000, y =     22.000
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =      0.000, y =      0.000
+> node:  2, x =    200.000, y =      0.000
+  L.........: 0.00000e+000 mm
+  A.........: 0.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 0.00000e+000 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+4 instances created.
+> element  2, node  1 -  2, t =   4.00
+> node:  1, x =      0.000, y =      0.000
+> node:  2, x =    200.000, y =      0.000
+  L.........: 0.00000e+000 mm
+  A.........: 0.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 0.00000e+000 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+instance 4 deleted.
+instance 3 deleted.
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =    200.000, y =      0.000
+> node:  2, x =    400.000, y =      0.000
+  L.........: 0.00000e+000 mm
+  A.........: 0.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 0.00000e+000 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+4 instances created.
+> element  2, node  1 -  2, t =   4.00
+> node:  1, x =    200.000, y =      0.000
+> node:  2, x =    400.000, y =      0.000
+  L.........: 0.00000e+000 mm
+  A.........: 0.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 0.00000e+000 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+instance 4 deleted.
+instance 3 deleted.
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =    200.000, y =      1.000
+> node:  2, x =    400.000, y =      1.000
+  L.........: 0.00000e+000 mm
+  A.........: 0.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 0.00000e+000 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+4 instances created.
+> element  2, node  1 -  2, t =   4.00
+> node:  1, x =    200.000, y =      1.000
+> node:  2, x =    400.000, y =      1.000
+  L.........: 0.00000e+000 mm
+  A.........: 0.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 0.00000e+000 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+instance 4 deleted.
+instance 3 deleted.
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =      0.000, y =   -100.000
+> node:  2, x =      0.000, y =    100.000
+  L.........: 2.00000e+002 mm
+  A.........: 8.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 2.66667e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+instance 3 deleted.
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =      0.000, y =   -100.000
+> node:  2, x =      0.000, y =    100.000
+  L.........: 2.00000e+002 mm
+  A.........: 8.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 2.66667e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+instance 3 deleted.
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =      0.000, y =   -100.000
+> node:  2, x =      0.000, y =    100.000
+  L.........: 2.00000e+002 mm
+  A.........: 8.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 2.66667e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+instance 3 deleted.
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =      0.000, y =   -100.000
+> node:  2, x =      0.000, y =    100.000
+  L.........: 2.00000e+002 mm
+  A.........: 8.00000e+000 cm^2
+  Sx........: 0.00000e+000 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 2.66667e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+instance 3 deleted.
+instance 2 deleted.
+instance 1 deleted.
+1 instances created.
+2 instances created.
+3 instances created.
+4 instances created.
+5 instances created.
+6 instances created.
+Profile................: Fl 200x4
+> element  1, node  1 -  2, t =   4.00
+> node:  1, x =      0.000, y =   -100.000
+> node:  2, x =      0.000, y =      0.000
+  L.........: 1.00000e+002 mm
+  A.........: 4.00000e+000 cm^2
+  Sx........: -2.00000e+001 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 1.33333e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+> element  2, node  2 -  3, t =   4.00
+> node:  2, x =      0.000, y =      0.000
+> node:  3, x =      0.000, y =    100.000
+  L.........: 1.00000e+002 mm
+  A.........: 4.00000e+000 cm^2
+  Sx........: 2.00000e+001 cm^3
+  Sy........: 0.00000e+000 cm^3
+  Ixx.......: 1.33333e+002 cm^4
+  Iyy.......: 0.00000e+000 cm^4
+  Ixy.......: 0.00000e+000 cm^4
+Area...................:       8.00 cm^2
+Static Moment..........:       0.00       0.00 cm^3
+Moment of Inertia......:     266.67       0.00       0.00 cm^4
+instance 6 deleted.
